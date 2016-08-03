@@ -1,4 +1,3 @@
-package com.marin.util
 import org.apache.spark.rdd.RDD
 
 /*
